@@ -1,0 +1,4 @@
+set variavel_a = 6
+set variavel_b = 3
+
+print(variavel_a + variavel_b)
